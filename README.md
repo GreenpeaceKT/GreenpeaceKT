@@ -1,1 +1,2 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apiGreenpeaceKT=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GreenpeaceKT github stats](https://github-readme-stats.vercel.app/api?username=GreenpeaceKT)](https://github.com/GreenpeaceKT/github-readme-stats)
+
